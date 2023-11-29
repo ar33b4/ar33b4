@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ar33b4
-- 👀 I’m interested in ... whatevcer
+- 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... maths
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...linkedin
